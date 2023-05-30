@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shuja26
-- 👀 I’m interested in data structures, web development, full stack development and competitive programming 
+- 👀 I’m interested in data structures, web development, full stack development and Machine Learning 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email- shujaqureshi2601@gmail.com
